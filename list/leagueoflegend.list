@@ -1,0 +1,18 @@
+    leagueoflegends
+  - DOMAIN-SUFFIX,riotgames.com,DIRECT
+  - DOMAIN-SUFFIX,lol.qq.com,DIRECT
+  - DOMAIN-SUFFIX,lol.game.qq.com,DIRECT
+  - DOMAIN-SUFFIX,lol.qq.comcdn.direct,DIRECT
+  - DOMAIN-SUFFIX,tgp.qq.com,DIRECT  # 腾讯游戏平台
+  - DOMAIN-SUFFIX,wegame.com,DIRECT  # WeGame平台
+  - DOMAIN-KEYWORD,leagueoflegends,DIRECT
+  - DOMAIN-SUFFIX,tencent.com,DIRECT
+  - DOMAIN-SUFFIX,tencent-cloud.com,DIRECT
+  - DOMAIN-SUFFIX,qcloud.com,DIRECT
+  - DOMAIN-KEYWORD,lolcdn,DIRECT
+  - DOMAIN-KEYWORD,lol,DIRECT
+  - IP-CIDR,119.147.0.0/16,DIRECT,no-resolve  # 腾讯游戏服务器
+  - IP-CIDR,113.105.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,58.251.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,203.205.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,183.61.0.0/16,DIRECT,no-resolve
